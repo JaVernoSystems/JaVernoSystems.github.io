@@ -90,12 +90,16 @@
     </div>
 
     <footer>
-      © <span id="year"></span> JaVerno Systems
+     All contents © <span id="year"></span> JaVerno Systems
     </footer>
   </main>
 
   <script>
-    document.getElementById("year").textContent = new Date().getFullYear();
+    const startYear = 2024;
+    const currentYear = new Date().getFullYear();
+    document.getElementById("year").textContent = startYear === currentYear
+      ? startYear
+      : `${startYear}-${currentYear}`;
   </script>
 </body>
 </html>
