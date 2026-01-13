@@ -18,7 +18,7 @@ BoxDocs is designed to be simple, offline, and dependable.
 HOW TO USE BOXDOCS (QUICK START)
 
 Create a box
-Enter a short tag (for example, A1 or HOLIDAY) and an optional title, then click Add Box.
+Enter a short tag (for example, OFFICE or HOLIDAY) and an optional title, then click Add Box.
 
 Select a box
 Click a box from the list on the left to view or edit its details.
@@ -39,7 +39,7 @@ Print labels or contents
 • Print a box label to attach to the physical container.
 • Print a contents list to keep with the box or for reference.
 
-That’s it. There’s nothing to save—every change is stored as it happens.
+That’s it. There’s nothing to save. Every change is stored as it happens.
 
 DATA STORAGE
 All data is stored locally on your computer in plain text.
